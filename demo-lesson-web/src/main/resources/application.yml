@@ -1,0 +1,5 @@
+server:
+  port: 55555
+spring:
+  thymeleaf:
+    cache: false
